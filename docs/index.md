@@ -1,6 +1,6 @@
 ## Welcome to TFK blog
 
-My name is Vishnuvardhan Janapati. I have written couple of medium articles that I are listed below
+My name is Vishnuvardhan Janapati. I have written couple of articles on Medium that are listed below
 
 [1. Beginner Level Introduction to Three Keras Model APIs](https://medium.com/analytics-vidhya/beginner-level-introduction-to-three-keras-model-apis-24a45f7af3c9)
 
@@ -13,7 +13,8 @@ My name is Vishnuvardhan Janapati. I have written couple of medium articles that
 [5. A High Level Overview of Keras ModelCheckpoint Callback](https://medium.com/swlh/a-high-level-overview-of-keras-modelcheckpoint-callback-deae8099d786)
 
 
-Please follow me on The Medium and let me know if you need any help understanding other concepts in TensorFlow and/or Keras
+Please [follow me](https://jvishnuvardhan.medium.com/) on The Medium and let me know if you need any help understanding other concepts in TensorFlow and/or Keras.
+
 
 ### Markdown
 
