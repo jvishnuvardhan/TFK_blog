@@ -1,8 +1,19 @@
 ## Welcome to TFK blog
 
-You can use the [editor on GitHub](https://github.com/jvishnuvardhan/gdocsy/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Vishnuvardhan Janapati. I have written couple of medium articles that I are listed below
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[1. Beginner Level Introduction to Three Keras Model APIs](https://medium.com/analytics-vidhya/beginner-level-introduction-to-three-keras-model-apis-24a45f7af3c9)
+
+[2. Saving and Loading of Keras Sequential and Functional Models: Part I](https://medium.com/swlh/saving-and-loading-of-keras-sequential-and-functional-models-73ce704561f4)
+
+[3. Saving and Loading of Keras Sequential and Functional Models: Part II](https://medium.com/swlh/saving-and-loading-of-keras-sequential-and-functional-models-b0092fff335)
+
+[4. Custom Loss and Custom Metrics Using Keras Sequential Model API](https://medium.com/swlh/custom-loss-and-custom-metrics-using-keras-sequential-model-api-d5bcd3a4ff28)
+
+[5. A High Level Overview of Keras ModelCheckpoint Callback](https://medium.com/swlh/a-high-level-overview-of-keras-modelcheckpoint-callback-deae8099d786)
+
+
+Please follow me on The Medium and let me know if you need any help understanding other concepts in TensorFlow and/or Keras
 
 ### Markdown
 
